@@ -1,7 +1,7 @@
 # Free-Code-Camp-Prdocuct-Landing-Page-
 
 
---- Images Courtesy ---
+--- Image Courtesy ---
 
 All the images used are taken from :
 
